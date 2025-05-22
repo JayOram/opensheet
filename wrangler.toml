@@ -1,6 +1,6 @@
 name = "opensheet"
 main = "index.js"
-account_id = "67dea42500ed1c73676cafa8aa4f572c"
+account_id = "69e05f45e2585827ca16284ddf50b141"
 compatibility_date = "2022-11-20"
 
 # Uncomment if you don’t have a custom domain.
