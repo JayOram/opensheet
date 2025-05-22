@@ -3,7 +3,7 @@ main = "index.js"
 account_id = "67dea42500ed1c73676cafa8aa4f572c"
 compatibility_date = "2022-11-20"
 
-Uncomment if you don’t have a custom domain.
+# Uncomment if you don’t have a custom domain.
 workers_dev = true
 
 # For custom domain — comment out if you don’t have a custom domain.
